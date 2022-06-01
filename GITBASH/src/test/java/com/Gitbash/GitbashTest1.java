@@ -7,6 +7,8 @@ public class GitbashTest1 {
 	public void test() {
 		System.out.println("hi");
 	}
-	
+public void test2()
+{
+System.out.println("hello")
 
 }
