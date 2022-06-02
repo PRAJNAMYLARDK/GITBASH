@@ -9,5 +9,7 @@ public class GitbashpracticeTest3 {
 		System.out.println("hello");
 		
 	}
-
+public class Gitbashpractice()
+{
+System.out.println("hi");
 }
